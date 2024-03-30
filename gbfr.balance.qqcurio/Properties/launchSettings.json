@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "gbfr.balance.qqcurio": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Games\\SteamLibrary\\steamapps\\common\\Granblue Fantasy Relink\\granblue_fantasy_relink.exe\""
+    }
+  }
+}

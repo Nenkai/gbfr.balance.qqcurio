@@ -1,0 +1,28 @@
+{
+  "ModId": "gbfr.balance.qqcurio",
+  "ModName": "Curio T4 Rewards With Quick Quest Tickets",
+  "ModAuthor": "Nenkai",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Gives Curio T4s when claiming quick quest tickets.",
+  "ModDll": "gbfr.balance.qqcurio.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/gbfr.balance.qqcurio.dll",
+  "ModR2RManagedDll64": "x64/gbfr.balance.qqcurio.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "gbfr.balance.qqcurio.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+
+  "ModDependencies": [
+    "Reloaded.Memory.SigScan.ReloadedII",
+    "reloaded.sharedlib.hooks",
+    "gbfrelink.utility.manager"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "granblue_fantasy_relink.exe"
+  ],
+  "ProjectUrl": ""
+}
